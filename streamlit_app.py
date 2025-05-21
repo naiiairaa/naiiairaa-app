@@ -4,7 +4,7 @@ st.title("naila pake i bukan y")
 st.write(
     "pinkienaii."
 )
-st.image("IMG_4899.jpeg", width=200)
+st.image("IMG_4899.jpeg")
 
 st.title("Aplikasi Sederhana")
 st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
